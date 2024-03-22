@@ -1,0 +1,19 @@
+{
+  "name": "tornado-bot",
+  "version": "1.0.0",
+  "description": "Tornado Bot's",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "tornado",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^8.0.3"
+  }
+}
