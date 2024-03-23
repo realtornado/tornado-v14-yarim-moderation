@@ -20,6 +20,7 @@ ERRORCOLOR="#A50202"
 
 # Önemli Gerekenler
 BOTCOMMANDROLID=""
+OWNERROLID=""
 ```
 
 #### örnekler:
