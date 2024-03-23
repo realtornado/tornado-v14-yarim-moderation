@@ -24,6 +24,8 @@ BOTCOMMANDROLID=""
 
 #### örnekler:
 
-![Açıklama metni](https://media.discordapp.net/attachments/1220714050032373801/1220741961414217788/image.png?ex=66100b8b&is=65fd968b&hm=b2be5d139df59af817503e3a96c4f892de453da64d571fdd0b3cfce8b00b43c9&=&format=webp&quality=lossless&width=812&height=458)
+![Açıklama metni](https://cdn.discordapp.com/attachments/1220714050032373801/1221067954372739203/image.png?ex=66113b26&is=65fec626&hm=9c3f4b00872fe5f5478a3fabd22348a274db15308db8e388320ee2e9b2b3574b&)
 
-![Açıklama metni](https://cdn.discordapp.com/attachments/1220714050032373801/1220714065454698538/image.png?ex=660ff190&is=65fd7c90&hm=01150dee2a5da95f6bbf729e65aecde4fde06c7a5229687f932c866dfaa385b4&)
+![Açıklama metni](https://cdn.discordapp.com/attachments/1220714050032373801/1220741961414217788/image.png?ex=66100b8b&is=65fd968b&hm=b2be5d139df59af817503e3a96c4f892de453da64d571fdd0b3cfce8b00b43c9&)
+
+![Açıklama metni](https://cdn.discordapp.com/attachments/1220714050032373801/1221038960546021436/image.png?ex=66112026&is=65feab26&hm=09894d00682a500faa1bac7886b6a7a41a37f97f6687550bcfb010dc02c16159&)
