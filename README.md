@@ -30,3 +30,4 @@ OWNERROLID=""
 ![Açıklama metni](https://cdn.discordapp.com/attachments/1220714050032373801/1220741961414217788/image.png?ex=66100b8b&is=65fd968b&hm=b2be5d139df59af817503e3a96c4f892de453da64d571fdd0b3cfce8b00b43c9&)
 
 ![Açıklama metni](https://cdn.discordapp.com/attachments/1220714050032373801/1221038960546021436/image.png?ex=66112026&is=65feab26&hm=09894d00682a500faa1bac7886b6a7a41a37f97f6687550bcfb010dc02c16159&)
+![Açıklama metni](https://cdn.discordapp.com/attachments/1220714050032373801/1221069380071198800/image.png?ex=66113c7a&is=65fec77a&hm=178e08b336980e3cfa6fb28b5f8d466562c7353fd807c3ae657b1b920c019b8d&)
